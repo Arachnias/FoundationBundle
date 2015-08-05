@@ -1,0 +1,24 @@
+{
+    "name": "arachnias/foundationbundle",
+    "type": "symfony-bundle",
+    "description": "Symfony2 Foundation Bundle",
+    "keywords": ["foundation"],
+    "homepage": "http://www.github.com/Arachnias",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Good",
+            "email": "saintwolf@arachnias.co.uk"
+        },
+    ],
+    "support": {
+        "issues": "https://github.com/Arachnias/FoundationBundle/issues"
+    },
+    "require": {
+        "zurb/foundation": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Arachnias\\FoundationBundle": "" }
+    },
+    "target-dir": "Arachnias/FoundationBundle"
+}
