@@ -1,0 +1,3 @@
+arachnias_foundation_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: ArachniasFoundationBundle:Default:index }
