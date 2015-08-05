@@ -9,7 +9,7 @@
         {
             "name": "John Good",
             "email": "saintwolf@arachnias.co.uk"
-        },
+        }
     ],
     "support": {
         "issues": "https://github.com/Arachnias/FoundationBundle/issues"
